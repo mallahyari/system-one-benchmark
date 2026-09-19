@@ -1,5 +1,7 @@
 # System One & Parallel Constrained Decoding Benchmark
 
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mehdiyari)
+
 Empirical evaluation and benchmarking suite comparing:
 1. **TypeSafe Jev (`jev-1.13.0`)**: A frontier "System One" decision model via cloud API.
 2. **Local Open-Source PCD**: Parallel Constrained Decoding with `Qwen 2.5 1.5B (4-bit)` on Apple Silicon using Apple's **MLX** framework.
@@ -119,3 +121,11 @@ system-one-benchmark/
 * **TypeSafe AI:** [Introducing System One Models & Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
 * **Open-Source MLX PCD:** Adapted from [harshatheg/Qwen-2.5-1B-RLCD](https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD)
 * **Datasets:** [lmsys/toxic-chat](https://huggingface.co/datasets/lmsys/toxic-chat) and [mteb/banking77](https://huggingface.co/datasets/mteb/banking77)
+
+---
+
+## Support
+
+If you found these benchmarks, tools, or research helpful, feel free to support the work:
+
+<a href="https://buymeacoffee.com/mehdiyari" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="42" width="150"></a>
