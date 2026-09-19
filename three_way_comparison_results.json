@@ -1,0 +1,24 @@
+{
+  "samples": 50,
+  "jev_metrics": {
+    "accuracy": 0.84,
+    "precision": 0.9091,
+    "recall": 0.5882,
+    "f1": 0.7143,
+    "brier_score": 0.1096,
+    "latency_p50_ms": 356.51,
+    "latency_mean_ms": 353.58
+  },
+  "local_pcd_metrics": {
+    "accuracy": 0.52,
+    "precision": 0.36,
+    "recall": 0.5294,
+    "f1": 0.4286,
+    "brier_score": 0.3884,
+    "latency_p50_ms": 227.2
+  },
+  "agreement": {
+    "pcd_vs_auto": 0.94,
+    "jev_vs_pcd": 0.52
+  }
+}

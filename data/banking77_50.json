@@ -1,0 +1,402 @@
+[
+  {
+    "id": "bank_0",
+    "text": "How do I locate my card?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_1",
+    "text": "I still have not received my new card, I ordered over a week ago.",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_2",
+    "text": "I ordered a card but it has not arrived. Help please!",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_3",
+    "text": "Is there a way to know when my card will arrive?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_4",
+    "text": "My card has not arrived yet.",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_5",
+    "text": "When will I get my card?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_6",
+    "text": "Do you know if there is a tracking number for the new card you sent me?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_7",
+    "text": "i have not received my card",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_8",
+    "text": "still waiting on that card",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_9",
+    "text": "Is it normal to have to wait over a week for my new card?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_10",
+    "text": "How do I track my card?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_11",
+    "text": "How long does a card delivery take?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_12",
+    "text": "I still don't have my card after 2 weeks.  What should I do?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_13",
+    "text": "still waiting on my new card",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_14",
+    "text": "I am still waiting for my card after 1 week.  Is this ok?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_15",
+    "text": "I have been waiting longer than expected for my bank card, could you provide information on when it will arrive?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_16",
+    "text": "I've been waiting longer than expected for my card.",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_17",
+    "text": "Why hasn't my card been delivered?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_18",
+    "text": "Where is my new card? I have been waiting a week!",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_19",
+    "text": "My card still hasn't arrived after 2 weeks. Is it lost?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_20",
+    "text": "I did not get my card yet, is it lost?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_21",
+    "text": "Status of the card I ordered.",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_22",
+    "text": "How long should my new card take to arrive?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_23",
+    "text": "I ordered my card 2 weeks ago and it still isn't here? What do I do?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_24",
+    "text": "My card has not arrived yet, where is it?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_25",
+    "text": "What is the tracking number for my card that was mailed?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_26",
+    "text": "I think something went wrong with my card delivery as I haven't received it yet.",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_27",
+    "text": "I'm still waiting for delivery of my new card, why is it taking so long?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_28",
+    "text": "I ordered a card a week ago, and it's still not here. What do I do?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_29",
+    "text": "i want to track the card you sent",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_30",
+    "text": "My card hasn't arrived yet.",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_31",
+    "text": "I was expecting my new card and am wondering why I haven't received it yet?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_32",
+    "text": "How do I know when my card will arrive?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_33",
+    "text": "I'm still waiting on my card to be delivered.",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_34",
+    "text": "Does the card you sent have a way to track to it?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_35",
+    "text": "I ordered a card and I still haven't received it. It's been two weeks. What can I do?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_36",
+    "text": "I'm starting to think my card is lost because it still hasn't arrived, can you help?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_37",
+    "text": "Is there tracking info available?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_38",
+    "text": "What is the tracking number for the card you sent?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_39",
+    "text": "Where is the tracking number for the card you sent me?",
+    "intent": "card_arrival",
+    "intent_id": 11,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_40",
+    "text": "Why won't my card show up on the app?",
+    "intent": "card_linking",
+    "intent_id": 13,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_41",
+    "text": "I would like to reactivate my card.",
+    "intent": "card_linking",
+    "intent_id": 13,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_42",
+    "text": "Where do I link the new card?",
+    "intent": "card_linking",
+    "intent_id": 13,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_43",
+    "text": "I have received my card, can you help me put it in the app?",
+    "intent": "card_linking",
+    "intent_id": 13,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_44",
+    "text": "How do I link a card that I already have?",
+    "intent": "card_linking",
+    "intent_id": 13,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_45",
+    "text": "I received my new card, but I don't see it in the app anywhere.  What do I do?",
+    "intent": "card_linking",
+    "intent_id": 13,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_46",
+    "text": "How do I re-add a card to the app?",
+    "intent": "card_linking",
+    "intent_id": 13,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_47",
+    "text": "How do I add the card to my account?",
+    "intent": "card_linking",
+    "intent_id": 13,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_48",
+    "text": "Can I put my old card back into the system? I just found it/",
+    "intent": "card_linking",
+    "intent_id": 13,
+    "urgency": 0,
+    "escalate": 0
+  },
+  {
+    "id": "bank_49",
+    "text": "I have one of your cards already, how do I link it?",
+    "intent": "card_linking",
+    "intent_id": 13,
+    "urgency": 0,
+    "escalate": 0
+  }
+]
